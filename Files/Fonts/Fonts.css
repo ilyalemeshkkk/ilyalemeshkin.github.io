@@ -1,0 +1,18 @@
+@font-face {
+font-family: "Catallina";
+src: url("Catallina.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Catallina.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Catallina.woff") format("woff"), /* Modern Browsers */
+     url("Catallina.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: "Tupo Vyaz Bold";
+src: url("Tupo Vyaz Bold.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Tupo Vyaz Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Tupo Vyaz Bold.woff") format("woff"), /* Modern Browsers */
+     url("Tupo Vyaz Bold.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
